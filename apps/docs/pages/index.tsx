@@ -1,4 +1,4 @@
-import { Button } from "omsoo-react";
+import { Button } from "ui-react";
 
 export default function Docs() {
   return (
